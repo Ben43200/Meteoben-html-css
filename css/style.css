@@ -215,12 +215,6 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
-@media screen and (min-width: 1024px) {
-  .nav-container .hamburger-lines {
-    display: none;
-  }
-}
-
 .nav-container .hamburger-lines .line {
   display: block;
   height: 4px;
